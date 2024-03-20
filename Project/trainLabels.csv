@@ -1,0 +1,17 @@
+import pandas as pd
+
+# Load train labels data
+train_labels = pd.read_csv("trainLabels.csv")
+
+print("Shape of train_labels:", train_labels.shape)
+print("Head of train_labels:\n", train_labels.head())
+
+Label1,Label2
+positive,neutral
+informative,NA
+location,NA
+promotional,NA
+positive,NA
+travel,NA
+neutral,NA  # Added label for the 5th sample
+informative,NA  # Added label for the 8th sample

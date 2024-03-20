@@ -1,0 +1,9 @@
+text,nGram,Content,Parsing,Spatial,Relational,Label1,Label2
+The quick brown fox jumps over the lazy dog.,unigram,hash_value,text,NA,NA,positive,neutral
+Machine learning is fascinating.,unigram,hash_value,text,NA,NA,positive,NA
+Natural language processing involves text analysis.,unigram,hash_value,text,NA,NA,positive,NA
+Deep learning algorithms require large datasets.,unigram,hash_value,text,NA,NA,positive,NA
+I enjoy reading books and watching movies.,unigram,hash_value,text,NA,NA,neutral,NA
+Sentiment analysis helps understand user opinions.,unigram,hash_value,text,NA,NA,informative,NA
+Named entity recognition identifies entities in text.,unigram,hash_value,text,NA,NA,informative,NA
+Topic modeling extracts themes from documents.,unigram,hash_value,text,NA,NA,informative,NA

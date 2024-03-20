@@ -1,0 +1,7 @@
+text,nGram,Content,Parsing,Spatial,Relational,Label1 (Optional)
+This is a new sentence for testing.,unigram,hash_value7,text,NA,NA,
+Another sentence to evaluate the model.,bigram,hash_value8,text,NA,NA,
+There might be a location mentioned here.,trigram,hash_value9,text,NA,nearby:title,
+An email about a discount.,unigram,hash_value10,text,NA,NA,
+This product review seems positive.,bigram,hash_value11,text,NA,NA,
+We are planning a trip.,trigram,hash_value12,text,NA,NA,
